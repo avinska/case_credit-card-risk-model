@@ -1,5 +1,5 @@
 # Credit-Card Risk Model
-Probability to default model build to fulfill business expectation of optimum default rate on their credit card portfolio. The project structured to have apple-to-apple comparison from the machine learning methods and we would see which model will be choosed as the final model by considerate the pros and cons of each presented model
+Probability to default model build to fulfill business expectation of optimum default rate on their credit card portfolio. The project structured to have apple-to-apple comparison from the machine learning methods and we would see which model will be choosed as the final model by consider the pros and cons of each presented model
 
 ## Background
 - Expected 2.5% of default rate for incoming credit card application
