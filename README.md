@@ -10,9 +10,9 @@ Probability to default model build to fulfill business expectation of optimum de
 - Determine the cutoff score for approveand reject boundaries
 
 ## File/folder dictionary
-ia_pkg : function set to do the whole work
-LR and XGB_credit_card_model.ipynb : the main playground to do the model building, including analysis of the dataset and cutoff score
-credit_ds_v3.csv : Dataset used, mainly consist of behavioral information towards credit card
-Data Glossary v3.xlsx : Dataset metadata
+- ia_pkg : function set to do the whole work
+- LR and XGB_credit_card_model.ipynb : the main playground to do the model building, including analysis of the dataset and cutoff score
+- credit_ds_v3.csv : Dataset used, mainly consist of behavioral information towards credit card
+- Data Glossary v3.xlsx : Dataset metadata
 
 
