@@ -1,4 +1,4 @@
-# Credit-Card Risk Model
+# case - credit card risk model
 Probability to default model build to fulfill business expectation of optimum default rate on their credit card portfolio. The project structured to have apple-to-apple comparison from the machine learning methods and we would see which model will be choosed as the final model by considering the pros and cons of each presented model
 
 ## Background
